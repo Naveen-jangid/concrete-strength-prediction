@@ -81,7 +81,7 @@ pip install -r requirements.txt
 python app.py
 ```
 Open **http://127.0.0.1:5000/** in your browser.
-for the data:-
+- for the data:-
     "Cement": 300,
     "Blast_Furnace_Slag": 100,
     "Fly_Ash": 0,
@@ -90,6 +90,7 @@ for the data:-
     "Coarse_Aggregate": 1000,
     "Fine_Aggregate": 800,
     "Age": 28
+  
 ![image](https://github.com/user-attachments/assets/a274745f-925c-4173-a532-b427b767a035)
 
 
@@ -100,6 +101,9 @@ for the data:-
  **Render** (Cloud Deployment)  
  **GitHub** (Version Control)    
  **Logging** (Python Logging Module)  
+
+ ![image](https://github.com/user-attachments/assets/77e4ba35-6e39-4ba9-a778-b1799f94697d)
+
 
 ---
 
