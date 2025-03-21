@@ -1,0 +1,101 @@
+2025-03-21 19:38:52,646 - INFO - Flask application started
+2025-03-21 19:38:52,655 - WARNING -  * Debugger is active!
+2025-03-21 19:38:52,655 - INFO -  * Debugger PIN: 133-034-168
+2025-03-21 19:38:57,431 - INFO -  * Detected change in 'E:\\PhD\\concrete-strength-prediction\\app.py', reloading
+2025-03-21 19:39:00,503 - INFO - Flask application started
+2025-03-21 19:39:00,512 - WARNING -  * Debugger is active!
+2025-03-21 19:39:00,517 - INFO -  * Debugger PIN: 133-034-168
+2025-03-21 19:39:04,710 - INFO - Received input: Cement=300.0, Slag=100.0, Fly Ash=0.0, Water=180.0, Superplasticizer=0.0, Coarse Aggregate=1000.0, Fine Aggregate=800.0, Age=28
+2025-03-21 19:39:04,715 - INFO - Prediction generated: 39.32 MPa
+2025-03-21 19:39:04,719 - INFO - 127.0.0.1 - - [21/Mar/2025 19:39:04] "POST /predict HTTP/1.1" 200 -
+2025-03-21 19:39:24,796 - INFO - Received input: Cement=300.0, Slag=100.0, Fly Ash=0.0, Water=180.0, Superplasticizer=5.0, Coarse Aggregate=1000.0, Fine Aggregate=800.0, Age=28
+2025-03-21 19:39:24,807 - INFO - Prediction generated: 54.94 MPa
+2025-03-21 19:39:24,809 - INFO - 127.0.0.1 - - [21/Mar/2025 19:39:24] "POST /predict HTTP/1.1" 200 -
+2025-03-21 19:40:26,555 - INFO - Flask application started
+2025-03-21 19:40:26,589 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 19:40:26,590 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 19:40:26,593 - INFO -  * Restarting with stat
+2025-03-21 19:40:28,842 - INFO - Flask application started
+2025-03-21 19:40:28,860 - WARNING -  * Debugger is active!
+2025-03-21 19:40:28,867 - INFO -  * Debugger PIN: 133-034-168
+2025-03-21 19:43:56,321 - INFO - Flask application started
+2025-03-21 19:43:56,353 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 19:43:56,353 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 19:43:56,357 - INFO -  * Restarting with stat
+2025-03-21 19:43:58,337 - INFO - Flask application started
+2025-03-21 19:43:58,345 - WARNING -  * Debugger is active!
+2025-03-21 19:43:58,349 - INFO -  * Debugger PIN: 133-034-168
+2025-03-21 19:46:29,365 - INFO -  * Detected change in 'E:\\PhD\\concrete-strength-prediction\\AWS_Deploy.py', reloading
+2025-03-21 19:46:29,800 - INFO -  * Restarting with stat
+2025-03-21 19:46:32,451 - INFO - Flask application started
+2025-03-21 19:46:32,463 - WARNING -  * Debugger is active!
+2025-03-21 19:46:32,466 - INFO -  * Debugger PIN: 133-034-168
+2025-03-21 19:46:33,782 - INFO -  * Detected change in 'E:\\PhD\\concrete-strength-prediction\\AWS_Deploy.py', reloading
+2025-03-21 19:46:34,216 - INFO -  * Restarting with stat
+2025-03-21 19:46:37,097 - INFO - Flask application started
+2025-03-21 19:46:37,107 - WARNING -  * Debugger is active!
+2025-03-21 19:46:37,111 - INFO -  * Debugger PIN: 133-034-168
+2025-03-21 19:50:40,720 - INFO - Flask application started
+2025-03-21 19:50:40,759 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 19:50:40,759 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 19:50:40,763 - INFO -  * Restarting with stat
+2025-03-21 19:50:43,704 - INFO - Flask application started
+2025-03-21 19:50:43,716 - WARNING -  * Debugger is active!
+2025-03-21 19:50:43,722 - INFO -  * Debugger PIN: 133-034-168
+2025-03-21 19:51:14,386 - INFO - Received input: Cement=300.0, Slag=0.0, Fly Ash=0.0, Water=180.0, Superplasticizer=5.0, Coarse Aggregate=1000.0, Fine Aggregate=800.0, Age=28
+2025-03-21 19:51:14,392 - INFO - Prediction generated: 52.69 MPa
+2025-03-21 19:51:14,405 - INFO - 127.0.0.1 - - [21/Mar/2025 19:51:14] "POST /predict HTTP/1.1" 200 -
+2025-03-21 19:52:14,089 - INFO - Flask application started
+2025-03-21 19:52:14,119 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 19:52:14,119 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 19:52:14,126 - INFO -  * Restarting with stat
+2025-03-21 19:52:16,211 - INFO - Flask application started
+2025-03-21 19:52:16,218 - WARNING -  * Debugger is active!
+2025-03-21 19:52:16,222 - INFO -  * Debugger PIN: 133-034-168
+2025-03-21 19:53:39,593 - INFO - Received input: Cement=540.0, Slag=0.0, Fly Ash=0.0, Water=162.0, Superplasticizer=2.5, Coarse Aggregate=1040.0, Fine Aggregate=676.0, Age=28
+2025-03-21 19:53:39,608 - INFO - Prediction generated: 52.16 MPa
+2025-03-21 19:53:39,622 - INFO - 127.0.0.1 - - [21/Mar/2025 19:53:39] "POST /predict HTTP/1.1" 200 -
+2025-03-21 19:55:22,690 - INFO -  * Detected change in 'E:\\PhD\\concrete-strength-prediction\\app.py', reloading
+2025-03-21 19:55:23,176 - INFO -  * Restarting with stat
+2025-03-21 19:55:25,238 - INFO - Flask application started
+2025-03-21 19:55:25,248 - WARNING -  * Debugger is active!
+2025-03-21 19:55:25,250 - INFO -  * Debugger PIN: 133-034-168
+2025-03-21 19:56:02,872 - INFO - Flask application started
+2025-03-21 19:56:02,910 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-21 19:56:02,910 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 19:56:02,914 - INFO -  * Restarting with stat
+2025-03-21 19:56:05,167 - INFO - Flask application started
+2025-03-21 19:56:05,177 - WARNING -  * Debugger is active!
+2025-03-21 19:56:05,181 - INFO -  * Debugger PIN: 133-034-168
+2025-03-21 19:56:22,735 - INFO - Flask application started
+2025-03-21 19:56:22,761 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-21 19:56:22,761 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 19:56:22,765 - INFO -  * Restarting with stat
+2025-03-21 19:56:25,640 - INFO - Flask application started
+2025-03-21 19:56:25,658 - WARNING -  * Debugger is active!
+2025-03-21 19:56:25,665 - INFO -  * Debugger PIN: 133-034-168
+2025-03-21 19:57:22,551 - INFO -  * Detected change in 'E:\\PhD\\concrete-strength-prediction\\app.py', reloading
+2025-03-21 19:57:22,938 - INFO -  * Restarting with stat
+2025-03-21 19:57:25,195 - INFO - Flask application started
+2025-03-21 19:57:25,207 - WARNING -  * Debugger is active!
+2025-03-21 19:57:25,211 - INFO -  * Debugger PIN: 133-034-168
+2025-03-21 19:57:46,012 - INFO -  * Detected change in 'E:\\PhD\\concrete-strength-prediction\\app.py', reloading
+2025-03-21 19:57:46,341 - INFO -  * Restarting with stat
+2025-03-21 19:57:58,818 - INFO - Flask application started
+2025-03-21 19:57:58,838 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 19:57:58,838 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 20:02:54,740 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 20:02:54,740 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 20:02:54,745 - INFO -  * Restarting with stat
+2025-03-21 20:02:56,809 - WARNING -  * Debugger is active!
+2025-03-21 20:02:56,813 - INFO -  * Debugger PIN: 133-034-168
+2025-03-21 20:03:20,836 - INFO -  * Detected change in 'E:\\PhD\\concrete-strength-prediction\\app.py', reloading
+2025-03-21 20:03:21,072 - INFO -  * Restarting with stat

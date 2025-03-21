@@ -1,0 +1,59 @@
+INFO:root:Loading dataset
+INFO:root:Loading dataset
+INFO:root:Loading dataset
+INFO:root:Loading dataset
+INFO:root:Dataset Info:
+INFO:root:Shape: (1030, 9)
+INFO:root:
+Summary:
+       Cement (component 1)(kg in a m^3 mixture)  Blast Furnace Slag (component 2)(kg in a m^3 mixture)  Fly Ash (component 3)(kg in a m^3 mixture)  Water  (component 4)(kg in a m^3 mixture)  Superplasticizer (component 5)(kg in a m^3 mixture)  Coarse Aggregate  (component 6)(kg in a m^3 mixture)  Fine Aggregate (component 7)(kg in a m^3 mixture)    Age (day)  Concrete compressive strength(MPa, megapascals) 
+count                                1030.000000                                            1030.000000                                 1030.000000                                1030.000000                                          1030.000000                                           1030.000000                                        1030.000000  1030.000000                                       1030.000000
+mean                                  281.165631                                              73.895485                                   54.187136                                 181.566359                                             6.203112                                            972.918592                                         773.578883    45.662136                                         35.817836
+std                                   104.507142                                              86.279104                                   63.996469                                  21.355567                                             5.973492                                             77.753818                                          80.175427    63.169912                                         16.705679
+min                                   102.000000                                               0.000000                                    0.000000                                 121.750000                                             0.000000                                            801.000000                                         594.000000     1.000000                                          2.331808
+25%                                   192.375000                                               0.000000                                    0.000000                                 164.900000                                             0.000000                                            932.000000                                         730.950000     7.000000                                         23.707115
+50%                                   272.900000                                              22.000000                                    0.000000                                 185.000000                                             6.350000                                            968.000000                                         779.510000    28.000000                                         34.442774
+75%                                   350.000000                                             142.950000                                  118.270000                                 192.000000                                            10.160000                                           1029.400000                                         824.000000    56.000000                                         46.136287
+max                                   540.000000                                             359.400000                                  200.100000                                 247.000000                                            32.200000                                           1145.000000                                         992.600000   365.000000                                         82.599225
+INFO:root:Missing Values:
+INFO:root:
+Cement (component 1)(kg in a m^3 mixture)                0
+Blast Furnace Slag (component 2)(kg in a m^3 mixture)    0
+Fly Ash (component 3)(kg in a m^3 mixture)               0
+Water  (component 4)(kg in a m^3 mixture)                0
+Superplasticizer (component 5)(kg in a m^3 mixture)      0
+Coarse Aggregate  (component 6)(kg in a m^3 mixture)     0
+Fine Aggregate (component 7)(kg in a m^3 mixture)        0
+Age (day)                                                0
+Concrete compressive strength(MPa, megapascals)          0
+INFO:root:Saved correlation heatmap
+ERROR:root:Error during exploration: 'Concrete compressive strength'
+INFO:root:Loading dataset
+ERROR:root:Error during exploration: Unsupported format, or corrupt file: Expected BOF record; found b'Cement ('
+INFO:root:Loading dataset
+INFO:root:Dataset Info:
+INFO:root:Shape: (1030, 9)
+INFO:root:
+Summary:
+       Cement (component 1)(kg in a m^3 mixture)  Blast Furnace Slag (component 2)(kg in a m^3 mixture)  Fly Ash (component 3)(kg in a m^3 mixture)  Water  (component 4)(kg in a m^3 mixture)  Superplasticizer (component 5)(kg in a m^3 mixture)  Coarse Aggregate  (component 6)(kg in a m^3 mixture)  Fine Aggregate (component 7)(kg in a m^3 mixture)    Age (day)  Concrete compressive strength(MPa, megapascals) 
+count                                1030.000000                                            1030.000000                                 1030.000000                                1030.000000                                          1030.000000                                           1030.000000                                        1030.000000  1030.000000                                       1030.000000
+mean                                  281.165631                                              73.895485                                   54.187136                                 181.566359                                             6.203112                                            972.918592                                         773.578883    45.662136                                         35.817836
+std                                   104.507142                                              86.279104                                   63.996469                                  21.355567                                             5.973492                                             77.753818                                          80.175427    63.169912                                         16.705679
+min                                   102.000000                                               0.000000                                    0.000000                                 121.750000                                             0.000000                                            801.000000                                         594.000000     1.000000                                          2.331808
+25%                                   192.375000                                               0.000000                                    0.000000                                 164.900000                                             0.000000                                            932.000000                                         730.950000     7.000000                                         23.707115
+50%                                   272.900000                                              22.000000                                    0.000000                                 185.000000                                             6.350000                                            968.000000                                         779.510000    28.000000                                         34.442774
+75%                                   350.000000                                             142.950000                                  118.270000                                 192.000000                                            10.160000                                           1029.400000                                         824.000000    56.000000                                         46.136287
+max                                   540.000000                                             359.400000                                  200.100000                                 247.000000                                            32.200000                                           1145.000000                                         992.600000   365.000000                                         82.599225
+INFO:root:Missing Values:
+INFO:root:
+Cement (component 1)(kg in a m^3 mixture)                0
+Blast Furnace Slag (component 2)(kg in a m^3 mixture)    0
+Fly Ash (component 3)(kg in a m^3 mixture)               0
+Water  (component 4)(kg in a m^3 mixture)                0
+Superplasticizer (component 5)(kg in a m^3 mixture)      0
+Coarse Aggregate  (component 6)(kg in a m^3 mixture)     0
+Fine Aggregate (component 7)(kg in a m^3 mixture)        0
+Age (day)                                                0
+Concrete compressive strength(MPa, megapascals)          0
+INFO:root:Saved correlation heatmap
+ERROR:root:Error during exploration: 'Concrete compressive strength'
