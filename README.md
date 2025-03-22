@@ -108,7 +108,11 @@ Open **http://127.0.0.1:5000/** in your browser.
 ---
 
 ##  Appendix  
- **Project Documentation:** [GitHub Documentation](#)  
+1. High Label Documentation: https://docs.google.com/document/d/1UqDNwOSkValLzX5BlPRRfMAGUp12j2E_/edit?usp=drive_link&ouid=110161944854525864991&rtpof=true&sd=true
+2. Low Label Documentation: https://docs.google.com/document/d/1Wo_kEpj2_wiSfdEDsNnkMhb13oM_GAuF/edit?usp=drive_link&ouid=110161944854525864991&rtpof=true&sd=true
+3. Architecture: https://docs.google.com/document/d/1S7pY48vw1tJ0OoExw8fUzNEddKauknUN/edit?usp=drive_link&ouid=110161944854525864991&rtpof=true&sd=true
+4. Wireframe: https://docs.google.com/document/d/1t5yx_hABbTVB0jIipQdMM-IGvxHr_klI/edit?usp=drive_link&ouid=110161944854525864991&rtpof=true&sd=true
+
 
 ---
 
