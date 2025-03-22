@@ -122,5 +122,5 @@ This project is **open-source** under the **MIT License**.
 ---
 
 ## Feedback  
-If you have **any suggestions or issues**, please **contact me** at: `nvnjan95@gmail.com`  
+If you have **any suggestions or issues**, please **contact me** at: `nvnjan95@gmail.com` 
 ```
