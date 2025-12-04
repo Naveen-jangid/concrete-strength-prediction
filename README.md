@@ -90,8 +90,32 @@ Open **http://127.0.0.1:5000/** in your browser.
     "Coarse_Aggregate": 1000,
     "Fine_Aggregate": 800,
     "Age": 28
-  
+
 ![image](https://github.com/user-attachments/assets/a274745f-925c-4173-a532-b427b767a035)
+
+### **Quick command-line prediction (no server required)**
+Use the trained model locally without the web UI:
+
+```bash
+python predict_cli.py --use-sample
+```
+
+Pass custom values by supplying every feature:
+
+```bash
+python predict_cli.py \
+  --cement 300 --slag 100 --fly-ash 0 --water 180 --superplasticizer 5 \
+  --coarse-agg 1000 --fine-agg 800 --age 28
+```
+
+### **Validate against the sample dataset**
+Compare the trained model to an actual row in `Concrete_Data.csv`:
+
+```bash
+python sample_data_prediction.py --row 0
+```
+
+Use a different example by changing the `--row` index.
 
 
 ---
